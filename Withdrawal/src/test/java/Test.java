@@ -9,5 +9,6 @@ public static void main(String[] args) {
 	System.out.println(s.getAddres());
 	System.out.println(s.getLocation());
 System.out.println("hellow this is swcond change by branch");
+System.out.println("szdafasfa");
 }
 }
