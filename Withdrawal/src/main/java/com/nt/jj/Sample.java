@@ -2,9 +2,10 @@ package com.nt.jj;
 
 public class Sample
 {
-private String name;
+iprivate String name;
 private String addres;
 private String Location;
+private String nameee;
 public String getName() {
 	
 	
